@@ -59,6 +59,7 @@ button {
 .active {
   background-color: #baf0d1bd;
   border: 1px solid #25ac5d;
+  color:#3C3C3C;
   font-family: 'Quicksand', sans-serif;
   font-size: 12px;
   height: auto;
@@ -69,6 +70,7 @@ button {
 .inactive {
   background-color: transparent;
   border: 1px solid #25ac5d;
+  color:#3C3C3C;
   font-family: 'Quicksand', sans-serif;
   font-size: 12px;
   height: auto;
