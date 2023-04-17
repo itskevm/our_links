@@ -1,7 +1,7 @@
 {
-  "name": "vite---react",
+  "name": "our_links",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "npx http-server ./dist",
     "dev": "vite",
