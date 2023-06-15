@@ -47,7 +47,7 @@ function App() {
           <img
             className="venmo"
             src={venmo}
-            alt="Venmo Image"
+            alt="Venmo QR code"
           />
         </a>
         <img
